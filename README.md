@@ -1,4 +1,4 @@
-# stat999-quarto
+# stat555
 
 This repository contains a Quarto-based template for class website. You can see a preview of it at [https://berkeley-scf.github.io/stat999-quarto](https://berkeley-scf.github.io/stat999-quarto). This template is intended to be forked and altered for other courses.
 

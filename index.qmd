@@ -1,5 +1,5 @@
 ---
-title: "Statistics 999: Generic Statistics Class"
+title: "Statistics 555: Generic Statistics Class"
 subtitle: "UC Berkeley, Spring 2024"
 listing:
   - id: schedule
